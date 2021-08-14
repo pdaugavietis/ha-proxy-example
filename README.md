@@ -18,6 +18,7 @@
 - exposes all ports to outside world for testing
     - in practice you wouldn't expose Tomcat ports at all
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-NOTE THIS DOESN'T WORK ON FIREFOX as the localhost private CA certs are not allowed
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+NOTE THIS DOESN'T WORK ON FIREFOX as the localhost 
+private CA certs are not allowed
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
